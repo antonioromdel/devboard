@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "project.service.url",
+  "type": "java.lang.String",
+  "description": "A description for 'project.service.url'"
+}]}
